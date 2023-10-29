@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+Proxigram is a privacy focused and and open source front-end for Instagram. Inspired by ProxiTox, Nitter, LibreMdb, and many others
