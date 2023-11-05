@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Proxigram est une interface frontale open source et axée sur la confidentialité pour Instagram. Inspiré de ProxiTox, Nitter, LibreMdb et bien d'autres
